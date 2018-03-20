@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <title>elFinder 2.0</title>
         <!-- ce4.b -->
+
         <!-- jQuery and jQuery UI (REQUIRED) -->
         <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
